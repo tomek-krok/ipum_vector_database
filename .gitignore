@@ -1,0 +1,6 @@
+#directories
+.venv
+/lab_02_vector_databases/rag/milvus_db/volumes/
+
+#files
+*.pyc
